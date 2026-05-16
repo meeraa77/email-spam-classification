@@ -46,5 +46,14 @@ https://drive.google.com/file/d/1_9iB0pZksEYLIxg4hdmD3jWpBN6xfJMs/view?usp=shari
 - NLTK
 
 
+## Streamlit Application
 
+The trained spam classification model was deployed using Streamlit for interactive real-time prediction.
+
+### Features
+
+- Real-time spam prediction
+- Text preprocessing pipeline
+- TF-IDF vectorization
+- Clean user interface
 
