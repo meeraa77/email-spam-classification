@@ -244,9 +244,13 @@ The final model was deployed using Streamlit for real-time spam prediction.
 
 ---
 
-## 🚀 Deployment Link
+## 🚀 Screenshots
 
-http://localhost:8501/
+**App Interface**
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/cb9b5b64-6997-4189-a151-bb1b2f55dccc" />
+
+**Result**
+
 
 
 
