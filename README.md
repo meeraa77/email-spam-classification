@@ -34,7 +34,16 @@ https://drive.google.com/file/d/1_9iB0pZksEYLIxg4hdmD3jWpBN6xfJMs/view?usp=shari
 - Machine Learning model building
 
 
+## Tech Stack
 
+- Python
+- Scikit-learn
+- NLP
+- TF-IDF Vectorization
+- Streamlit
+- Pandas
+- NumPy
+- NLTK
 
 
 
