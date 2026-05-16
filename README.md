@@ -247,12 +247,16 @@ The final model was deployed using Streamlit for real-time spam prediction.
 ## 🚀 Screenshots
 
 **App Interface**
-## 📸 Output Screenshot
 
 <p align="center">
   <img src="assets/Screenshot%202026-05-16%20232045.png" alt="Email Spam Classification Output" width="800"/>
 </p>
+
 **Result**
+
+<p align="center">
+  <img src="assets/Screenshot%202026-05-16%20232627.png" alt="Spam Detection Application Screenshot" width="850"/>
+</p>
 
 
 
